@@ -74,7 +74,7 @@ Note: the amount charged is $4.00, but is specified in cents (400 cents == $4)
 * [Subscriptions](https://github.com/bradrydzewski/go.stripe/wiki/Subscriptions)
 * [Tokens](https://github.com/bradrydzewski/go.stripe/wiki/Tokens)
 
-You can also have a look at the [Godocs](http://gopkgdoc.appspot.com/pkg/github.com/bradrydzewski/go.stripe).
+You can also have a look at the [Godocs](http://godoc.org/github.com/bradrydzewski/go.stripe).
 
 ## Unit Tests
 
